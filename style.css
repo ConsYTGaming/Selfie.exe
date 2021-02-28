@@ -1,0 +1,27 @@
+body
+{
+background-image: url("https://68.media.tumblr.com/cd0d4d963a4ef3564d7ca4621d3346f0/tumblr_o058f0zXCo1v2iniwo1_500.gif");
+    background-position: center;
+    background-size: cover;
+	color: #f00;
+}
+
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
